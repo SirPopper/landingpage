@@ -53,6 +53,7 @@ a {
 .container-one {
   width: 80%;
   display: flex;
+  column-gap: 50px;
   color: white;
   margin: 100px;
 }
